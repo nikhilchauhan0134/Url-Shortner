@@ -1,0 +1,16 @@
+@UrlShortener_HostAddress = http://localhost:5265
+
+POST {{UrlShortener_HostAddress}}/api/url
+Content-Type: application/json
+
+{
+  "url": "https://example.com/some/very/long/path"
+}
+
+###
+
+GET {{UrlShortener_HostAddress}}/api/url/1
+
+###
+
+GET {{UrlShortener_HostAddress}}/1

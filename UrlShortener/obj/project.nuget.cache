@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "sWPXPguxDTk=",
+  "success": true,
+  "projectFilePath": "N:\\learning\\URLShortner\\UrlShortener\\UrlShortener.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikhil.chauhan\\.nuget\\packages\\microsoft.extensions.apidescription.server\\10.0.0\\microsoft.extensions.apidescription.server.10.0.0.nupkg.sha512",
+    "C:\\Users\\nikhil.chauhan\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512",
+    "C:\\Users\\nikhil.chauhan\\.nuget\\packages\\swashbuckle.aspnetcore\\10.2.2\\swashbuckle.aspnetcore.10.2.2.nupkg.sha512",
+    "C:\\Users\\nikhil.chauhan\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\10.2.2\\swashbuckle.aspnetcore.swagger.10.2.2.nupkg.sha512",
+    "C:\\Users\\nikhil.chauhan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\10.2.2\\swashbuckle.aspnetcore.swaggergen.10.2.2.nupkg.sha512",
+    "C:\\Users\\nikhil.chauhan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\10.2.2\\swashbuckle.aspnetcore.swaggerui.10.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}
